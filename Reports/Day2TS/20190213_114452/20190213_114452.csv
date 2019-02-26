@@ -1,0 +1,22 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+Day2TS,Chrome 72.0.3626.96,,2019-02-13 11:44:55,2019-02-13 11:45:33,37.617s,PASSED
+,,,,,,
+Test Cases/Day1/Test1,Chrome 72.0.3626.96,,2019-02-13 11:44:56,2019-02-13 11:45:13,16.940s,PASSED
+"openBrowser("""")",Chrome 72.0.3626.96,,2019-02-13 11:44:56,2019-02-13 11:45:00,3.521s,PASSED
+"navigateToUrl(""https://katalon-demo-cura.herokuapp.com/"")",Chrome 72.0.3626.96,,2019-02-13 11:45:00,2019-02-13 11:45:10,10.656s,PASSED
+"click(findTestObject(""Object Repository/Page_CURA Healthcare Service/a_Make Appointment""))",Chrome 72.0.3626.96,,2019-02-13 11:45:10,2019-02-13 11:45:11,0.583s,PASSED
+"setText(findTestObject(""Object Repository/Page_CURA Healthcare Service/input_Username_username""), ""John Doe"")",Chrome 72.0.3626.96,,2019-02-13 11:45:11,2019-02-13 11:45:11,0.146s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_CURA Healthcare Service/input_Password_password""), ""g3/DOGG74jC3Flrr3yH+3D/yKbOqqUNM"")",Chrome 72.0.3626.96,,2019-02-13 11:45:11,2019-02-13 11:45:11,0.212s,PASSED
+"click(findTestObject(""Object Repository/Page_CURA Healthcare Service/button_Login""))",Chrome 72.0.3626.96,,2019-02-13 11:45:11,2019-02-13 11:45:11,0.206s,PASSED
+"click(findTestObject(""Object Repository/Page_CURA Healthcare Service/div_Visit Date (Required)_inpu""))",Chrome 72.0.3626.96,,2019-02-13 11:45:11,2019-02-13 11:45:12,0.146s,PASSED
+"click(findTestObject(""Object Repository/Page_CURA Healthcare Service/td_28""))",Chrome 72.0.3626.96,,2019-02-13 11:45:12,2019-02-13 11:45:12,0.096s,PASSED
+"setText(findTestObject(""Object Repository/Page_CURA Healthcare Service/textarea_Comment_comment""), ""Test"")",Chrome 72.0.3626.96,,2019-02-13 11:45:12,2019-02-13 11:45:12,0.114s,PASSED
+"click(findTestObject(""Object Repository/Page_CURA Healthcare Service/button_Book Appointment""))",Chrome 72.0.3626.96,,2019-02-13 11:45:12,2019-02-13 11:45:12,0.185s,PASSED
+closeBrowser(),Chrome 72.0.3626.96,,2019-02-13 11:45:12,2019-02-13 11:45:13,0.766s,PASSED
+,,,,,,
+Test Cases/Day1/Test2,Chrome 72.0.3626.96,,2019-02-13 11:45:13,2019-02-13 11:45:33,20.414s,PASSED
+"openBrowser("""")",Chrome 72.0.3626.96,,2019-02-13 11:45:13,2019-02-13 11:45:15,2.214s,PASSED
+"navigateToUrl(""http://lifecharger.org/"")",Chrome 72.0.3626.96,,2019-02-13 11:45:15,2019-02-13 11:45:30,15.410s,PASSED
+"click(findTestObject(""Page_Life Charger   a new beginning/a_Break It Win It""))",Chrome 72.0.3626.96,,2019-02-13 11:45:30,2019-02-13 11:45:32,1.677s,PASSED
+"setText(findTestObject(""Page_Life Charger   a new beginning/input_Search for_s""), ""life"")",Chrome 72.0.3626.96,,2019-02-13 11:45:32,2019-02-13 11:45:32,0.109s,PASSED
+closeBrowser(),Chrome 72.0.3626.96,,2019-02-13 11:45:32,2019-02-13 11:45:33,0.842s,PASSED

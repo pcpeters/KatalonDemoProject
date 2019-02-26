@@ -1,0 +1,22 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+Day2TS,Firefox 65.0,,2019-02-13 11:45:35,2019-02-13 11:46:01,25.742s,PASSED
+,,,,,,
+Test Cases/Day1/Test1,Firefox 65.0,,2019-02-13 11:45:35,2019-02-13 11:45:51,15.307s,PASSED
+"openBrowser("""")",Firefox 65.0,,2019-02-13 11:45:36,2019-02-13 11:45:40,4.163s,PASSED
+"navigateToUrl(""https://katalon-demo-cura.herokuapp.com/"")",Firefox 65.0,,2019-02-13 11:45:40,2019-02-13 11:45:41,1.683s,PASSED
+"click(findTestObject(""Object Repository/Page_CURA Healthcare Service/a_Make Appointment""))",Firefox 65.0,,2019-02-13 11:45:41,2019-02-13 11:45:42,0.238s,PASSED
+"setText(findTestObject(""Object Repository/Page_CURA Healthcare Service/input_Username_username""), ""John Doe"")",Firefox 65.0,,2019-02-13 11:45:42,2019-02-13 11:45:42,0.076s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_CURA Healthcare Service/input_Password_password""), ""g3/DOGG74jC3Flrr3yH+3D/yKbOqqUNM"")",Firefox 65.0,,2019-02-13 11:45:42,2019-02-13 11:45:42,0.125s,PASSED
+"click(findTestObject(""Object Repository/Page_CURA Healthcare Service/button_Login""))",Firefox 65.0,,2019-02-13 11:45:42,2019-02-13 11:45:42,0.221s,PASSED
+"click(findTestObject(""Object Repository/Page_CURA Healthcare Service/div_Visit Date (Required)_inpu""))",Firefox 65.0,,2019-02-13 11:45:42,2019-02-13 11:45:42,0.274s,PASSED
+"click(findTestObject(""Object Repository/Page_CURA Healthcare Service/td_28""))",Firefox 65.0,,2019-02-13 11:45:42,2019-02-13 11:45:43,0.235s,PASSED
+"setText(findTestObject(""Object Repository/Page_CURA Healthcare Service/textarea_Comment_comment""), ""Test"")",Firefox 65.0,,2019-02-13 11:45:43,2019-02-13 11:45:43,0.049s,PASSED
+"click(findTestObject(""Object Repository/Page_CURA Healthcare Service/button_Book Appointment""))",Firefox 65.0,,2019-02-13 11:45:43,2019-02-13 11:45:43,0.191s,PASSED
+closeBrowser(),Firefox 65.0,,2019-02-13 11:45:43,2019-02-13 11:45:51,7.753s,PASSED
+,,,,,,
+Test Cases/Day1/Test2,Firefox 65.0,,2019-02-13 11:45:51,2019-02-13 11:46:01,10.161s,PASSED
+"openBrowser("""")",Firefox 65.0,,2019-02-13 11:45:51,2019-02-13 11:45:54,2.893s,PASSED
+"navigateToUrl(""http://lifecharger.org/"")",Firefox 65.0,,2019-02-13 11:45:54,2019-02-13 11:45:58,4.203s,PASSED
+"click(findTestObject(""Page_Life Charger   a new beginning/a_Break It Win It""))",Firefox 65.0,,2019-02-13 11:45:58,2019-02-13 11:46:00,1.906s,PASSED
+"setText(findTestObject(""Page_Life Charger   a new beginning/input_Search for_s""), ""life"")",Firefox 65.0,,2019-02-13 11:46:00,2019-02-13 11:46:00,0.050s,PASSED
+closeBrowser(),Firefox 65.0,,2019-02-13 11:46:00,2019-02-13 11:46:01,0.961s,PASSED

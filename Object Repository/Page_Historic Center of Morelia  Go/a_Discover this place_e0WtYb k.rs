@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Discover this place_e0WtYb k</name>
+   <tag></tag>
+   <elementGuidId>9c51a052-e9bb-4fd5-8d03-d43c4037167c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='yDmH0d']/div[3]/div/div[2]/div[2]/div[2]/div[3]/content/div/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>e0WtYb kdYEFe ZEnmnd PJLMUc</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/asset/church-viewed-through-an-arch-templo-de-las-rosas-morelia-michoacan-state-mexico/ZwGEeVs-FjyJ-Q</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>jsaction</name>
+      <type>Main</type>
+      <value>rcuQ6b:npT2md; mousedown:jScpfc; touchstart:jScpfc; touchmove:NI7Syc; mouseup:nHXBQb; touchend:nHXBQb; mouseleave:FfcXAd; blur:ll011b;</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>jscontroller</name>
+      <type>Main</type>
+      <value>eFtfHd</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Church viewed through an arch, Templo De Las Rosas, Morelia, Michoacan State, Mexico</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bgsrc</name>
+      <type>Main</type>
+      <value>//lh6.ggpht.com/hBJ8BLlhx9Kd88CPSEK_ADdZatvmYgYXPGknNk0_yweIRkz9Qbf1931RCw</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-ct</name>
+      <type>Main</type>
+      <value>c</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-gacategory</name>
+      <type>Main</type>
+      <value>mosaics</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-gaaction</name>
+      <type>Main</type>
+      <value>clicked</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;yDmH0d&quot;)/div[@class=&quot;Noqx5 uFenQ&quot;]/div[@class=&quot;YMXbFf&quot;]/div[@class=&quot;EbT1Hd WYU9Sb&quot;]/div[@class=&quot;fGDKld qR3Mzb&quot;]/div[@class=&quot;mqAyNe p6VWJb dm7raf DYZP6e dOskXb uv3XYb&quot;]/div[@class=&quot;IilBJf BHleke&quot;]/content[@class=&quot;ofWB0d&quot;]/div[@class=&quot;wcg9yf&quot;]/div[@class=&quot;vyQv6 WTStYe&quot;]/a[@class=&quot;e0WtYb kdYEFe ZEnmnd PJLMUc&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <value>//body[@id='yDmH0d']/div[3]/div/div[2]/div[2]/div[2]/div[3]/content/div/div/a</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Discover this place'])[1]/following::a[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Read more'])[1]/following::a[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Translate with Google'])[1]/preceding::a[8]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <value>//a[contains(@href, '/asset/church-viewed-through-an-arch-templo-de-las-rosas-morelia-michoacan-state-mexico/ZwGEeVs-FjyJ-Q')]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <value>//content/div/div/a</value>
+   </webElementXpaths>
+</WebElementEntity>
